@@ -1,4 +1,15 @@
-# 🌱 Rise Together Community
+# Rise Together Community
+
+![Alt text](banner.png)
+
+
+<p align="left">
+  <a href="https://www.linkedin.com/feed/">
+    <img src="https://img.shields.io/badge/🌐-risetogether.tech-orange?style=for-the-badge">
+  </a>
+</p>
+
+
 
 Welcome to *Rise Together* — a student-led tech community built on the principle that *growth multiplies when shared*. We believe in learning in public, helping peers, and creating real impact by growing together.
 
@@ -103,19 +114,17 @@ Whether you're a complete beginner or someone with experience willing to mentor 
 - 🧑‍🏫 As a mentor — take sessions, solve doubts, and lead.
 - 🤝 As a contributor — help build the community, tech stack, and content.
 
----
 
 ## 📲 Our Platforms
+<p align="left">
+  <a href="https://linkedin.com/company/your-community-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/your-community-link"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://instagram.com/your-community-link"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:yourname@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://threads.net/your-community-link"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" /></a>
+</p>
 
-- [GitHub](https://github.com/your-community-link)
-- [Instagram](https://instagram.com/your-community-link)
-- [Threads](https://threads.net/your-community-link)
-- [LinkedIn](https://linkedin.com/company/your-community-link)
-- [YouTube](https://youtube.com/@your-community-link)
-- [Reddit](https://reddit.com/r/your-community-link)
-- [WhatsApp / Discord / Telegram] — for internal groups
-
----
 
 ## 🧾 Community Admin / Founder
 
@@ -126,6 +135,7 @@ Community builder & peer leader
 📬 [Add your contact or social link]
 
 ---
+
 
 ## 🌟 Final Word
 
